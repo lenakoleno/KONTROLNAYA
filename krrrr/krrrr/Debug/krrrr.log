@@ -1,0 +1,3 @@
+﻿  krrrr.cpp
+c:\users\user\source\repos\krrrr\krrrr\krrrr.cpp(368): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  krrrr.vcxproj -> C:\Users\User\source\repos\krrrr\Debug\krrrr.exe
